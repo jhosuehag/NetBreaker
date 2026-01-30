@@ -1,7 +1,5 @@
 # 🛡️ NetBreaker - Network Manager & Security Tool
 
-![NetBreaker Banner](https://via.placeholder.com/1200x400?text=NetBreaker+Banner)
-
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](https://www.android.com/)
 [![Version](https://img.shields.io/badge/Version-3.0-blue?style=flat-square)](https://github.com/usuario/repo/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](LICENSE)
@@ -22,12 +20,6 @@ En la era conectada, es común que redes Wi-Fi privadas sean utilizadas por disp
 -   **📊 Monitor de Tráfico Detallado**: Visualiza el consumo de datos en tiempo real de cada dispositivo conectado.
 -   **📱 Escáner de Dispositivos**: Identifica marca, modelo, IP y dirección MAC de todos los equipos en la red.
 -   **🛡️ Protección Anti-Spoofing**: Mecanismos avanzados para asegurar que tu dispositivo no sea desconectado por terceros.
-
-## 📸 Capturas de Pantalla
-
-| Panel de Control | Lista de Dispositivos | Monitor de Tráfico |
-|:---:|:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/300x600?text=Dashboard+UI) | ![Devices](https://via.placeholder.com/300x600?text=Devices+List) | ![Traffic](https://via.placeholder.com/300x600?text=Traffic+Monitor) |
 
 ## 📥 Descarga e Instalación
 
