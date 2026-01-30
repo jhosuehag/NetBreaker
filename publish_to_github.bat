@@ -11,6 +11,6 @@ echo Configurando remoto...
 git remote add origin https://github.com/jhosuehag/NetBreaker.git
 git remote set-url origin https://github.com/jhosuehag/NetBreaker.git
 echo Subiendo a GitHub...
-git push -u origin main
+git push -u origin main --force
 echo Completado.
 pause
